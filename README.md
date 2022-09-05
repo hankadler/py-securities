@@ -23,7 +23,8 @@ pipenv install
 
 ## Examples
 
-...
+> This project was designed for personal use and not for mass distribution,
+> hence the lack of docs and examples. I'm keeping it here as reference.
 
 ## License
 
