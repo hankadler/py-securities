@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+yfinance = "*"
+args2fields = {editable = true, git = "https://github.com/hankadler/python-args2fields"}
+pyqt5 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
