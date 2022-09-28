@@ -1,8 +1,8 @@
-# python-securities
+# py-securities
 
 Library for analyzing securities
 
-> Next generation of [python-stocks](https://github.com/hankadler/python-stocks)
+> Next generation of [py-stocks](https://github.com/hankadler/py-stocks)
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Library for analyzing securities
 ## Setup
 
 ```bash
-git clone https://github.com/hankadler/python-securities securities
+git clone https://github.com/hankadler/py-securities securities
 cd securities
 mkdir .venv
 pipenv --python 3.9
